@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class NewBehaviourScript : MonoBehaviour
+public class DropletBehaviour : MonoBehaviour
 {
     // the prefab of droplet
     [SerializeField]
